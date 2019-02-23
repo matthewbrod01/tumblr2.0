@@ -1,8 +1,10 @@
 Recreating Tumblr for Codepath iOS Bootcamp (Spring 2019)
 
-## Lab 1 and 2 - *Tumblr*
+# Tumblr
 
 **Tumblr** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
+
+## Lab 1 and 2
 
 ### User Stories
 
