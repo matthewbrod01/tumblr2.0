@@ -20,7 +20,7 @@ Recreating Tumblr for Codepath iOS Bootcamp (Spring 2019)
 - [x] Infinite Scrolling
 
 ### App Walkthough GIF
-<img src="flix2.0-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><br />
+<img src="tumblr2.0-demo.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><br />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
